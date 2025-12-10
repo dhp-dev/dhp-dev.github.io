@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.biometric_flutter",
+      "sha256_cert_fingerprints": [
+        "A6:B2:99:B5:68:AB:57:B7:07:F1:D2:D8:4E:2F:B9:40:89:5E:46:D9:AE:B4:05:50:C9:6F:D8:C4:B4:0A:B2:AC"
+      ]
+    }
+  }
+]
